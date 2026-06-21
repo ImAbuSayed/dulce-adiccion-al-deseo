@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Dulce adicción al deseo |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Dulce adicción al deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
+| **Get License** | [Commercial Licensing for Dulce adicción al deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Mami, you got me, brillando en la oscuridad
-> Tu mirada en el club buscando electricidad
-> Tengo el flow, el deseo y la velocidad
-> Esta noche, shorty, nos vamos de la ciudad
+> Dulce adicción al deseo, tu fuego me quema despacio
+> Cada noche te busco, me pierdo en tu laberinto
+> Tu boca es veneno, tu piel es mi vicio sagrado
+> No hay cura pa' esto, te juro que ya estoy atrapado
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
