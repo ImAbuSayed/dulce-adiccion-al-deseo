@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dulce adicción al deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
+| **Get License** | [Get a Licensing Quote for Dulce adicción al deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, you got me, brillando en la oscuridad
+> Tu mirada en el club buscando electricidad
+> Tengo el flow, el deseo y la velocidad
+> Esta noche, shorty, nos vamos de la ciudad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
