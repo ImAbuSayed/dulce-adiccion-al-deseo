@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce adicción al deseo
+
+This log tracks the cryptographic history and versioning for the song **Dulce adicción al deseo** (dulce-adiccion-al-deseo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T04:53:58.878399 | `v1` | `66d4db328951eccbd1e5eb20caf6e64e31621cf0c6260b6e5307f6319167da7e` | `93f4a60121d5b80b41596b31e2b590fc342b93d245e3d5c81ad6315e7b46acde` | `2026-06-22_dulce-adiccion-al-deseo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
