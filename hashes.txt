@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Dulce ad
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:53:58.878399 | `v1` | `66d4db328951eccbd1e5eb20caf6e64e31621cf0c6260b6e5307f6319167da7e` | `93f4a60121d5b80b41596b31e2b590fc342b93d245e3d5c81ad6315e7b46acde` | `2026-06-22_dulce-adiccion-al-deseo-v1.txt` |
+| 2026-06-22T05:07:00.827272 | `v2` | `f1f6ad278bc3f2a56283acdc82de28eca2e89acca9157d888b83546391444aa6` | `066dac94ccbd016745dc3c4e98411139c3b01170d53faa8702b8c2d43c2ec327` | `2026-06-22_dulce-adiccion-al-deseo-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
