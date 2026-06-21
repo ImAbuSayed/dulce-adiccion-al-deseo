@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Dulce adicción al deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
+| **Get License** | [Music Rights & Licensing for Dulce adicción al deseo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-adiccion-al-deseo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3982)
+- [Telegram](https://t.me/AbuSayedMusic/3990)
 
 ---
 
